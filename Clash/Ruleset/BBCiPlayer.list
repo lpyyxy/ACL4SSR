@@ -1,6 +1,6 @@
 # 内容：BBCiPlayer
 # 数量：15条
-USER-AGENT,BBCiPlayer*
+# USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 DOMAIN,aod-dash-uk-live.akamaized.net

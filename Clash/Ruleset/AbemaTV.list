@@ -1,6 +1,6 @@
 # 内容：AbemaTV
 # 数量：9条
-USER-AGENT,AbemaTV*
+# USER-AGENT,AbemaTV*
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN,api-abematv.bucketeer.jp
 DOMAIN-SUFFIX,abema-tv.com

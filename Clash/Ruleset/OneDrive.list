@@ -1,7 +1,7 @@
 # 内容：OneDrive
 # 数量：18条
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
+# USER-AGENT,OneDrive*
+# USER-AGENT,OneDriveiOSApp*
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
 DOMAIN-KEYWORD,1drv
